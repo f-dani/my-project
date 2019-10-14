@@ -4,4 +4,6 @@ void main(void){
 	consol.write("2nd row");
 	
 	consol.write("3rd row");
+	
+	consol.write("4th row");
 }
