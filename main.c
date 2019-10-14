@@ -6,4 +6,6 @@ void main(void){
 	consol.write("3rd row");
 	
 	consol.write("4th row");
+	
+	console.write("whatever");
 }
