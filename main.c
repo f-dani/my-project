@@ -1,5 +1,7 @@
 void main(void){
 	consol.write("Hello world!);
 	
-	consol.write("Akarmicsoda");
+	consol.write("2nd row");
+	
+	consol.write("3rd row");
 }
