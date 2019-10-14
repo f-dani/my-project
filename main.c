@@ -6,6 +6,9 @@ void main(void){
 	consol.write("3rd row");
 	
 	consol.write("4th row");
+<<<<<<< HEAD
 	
-	consol.write("5th row");
+	consol.write("6th row");
+=======
+>>>>>>> feature1
 }
